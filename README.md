@@ -82,15 +82,3 @@ This repository presents a comprehensive case study of the **2017 Equifax Data B
 * Foster ongoing cybersecurity awareness and training.
 
 ---
-
-## 👥 Authors
-
-* **Anurag Karmakar**
-* **Rayyan Baig Mirza**
-* **Mika Patel**
-
----
-
-## 📜 License
-
-Licensed under the MIT License. See [LICENSE](LICENSE) for details.
